@@ -111,5 +111,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 
-    - Inspired by the principles of Test Driven Development.
-    - Thanks to all the contributors who have helped in improving this project.
+- Inspired by the principles of Test Driven Development.
+- Thanks to all the contributors who have helped in improving this project.
